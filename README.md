@@ -11,11 +11,11 @@
 ###
 
 <p align="left">
-  ❤️ Me gusta la programación en general
-  <br>🍃 Mi primer acercamiento a la programación fue con el lenguaje Visual Basic
-  <br>🦾 Podría considerar Java como mi lenguaje de programación favorito
-  <br>🗄 El desarrollo backend es mi rama favorita de la programación web
-  <br>👀 Actualmente me encuentro aprendiendo sobre Arquitectura de Software
+  ❤️ Me gusta la <strong>programación</strong> en general
+  <br>🍃 Mi primer acercamiento a la programación fue con el lenguaje <strong>Visual Basic</strong>
+  <br>🦾 Podría considerar <strong>Java</strong> como mi lenguaje de programación favorito
+  <br>🗄 El <strong>desarrollo backend</strong> es mi rama favorita de la programación web
+  <br>👀 Actualmente me encuentro aprendiendo sobre <strong>Arquitectura de Software</strong>
 </p>
 
 ###
